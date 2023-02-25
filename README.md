@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ZahraBadzohreh
 - 👀 I’m interested in Software Engineer and Programming
-- 🌱 I’m currently learning Data Science, C# advance
+- 🍎 In my free time reading books, walking, and Gym.
+- 🌱 I’m currently learning Data Science, Python, and C# advance
 - 💞️ I’m looking to collaborate on Dynamic Team
 - 📫 You can reach me with zahra.badzohreh@gmail.com
 
